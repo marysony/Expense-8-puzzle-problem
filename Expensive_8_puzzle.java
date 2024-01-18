@@ -2,6 +2,9 @@ import java.io.*;
 import java.text.SimpleDateFormat;
 import java.util.*;
 // This is a 8 puzzle problem code in java 
+
+
+// this is a code for 8 puzzle problem.
 public class Expensive_8_puzzle {
     
     	
